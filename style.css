@@ -1,0 +1,152 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ #box {
+    padding: 94px 0 74px;
+    background-color: rgb(250, 241, 241);
+ }
+
+ .container {
+    margin: 0 auto;
+    width: 1050px;
+    text-align: center;
+ }
+
+ .first h1{
+    text-align: center;
+    margin-bottom: 28px;
+    font-size: 40px;
+    line-height: 45px;
+    color: #000;
+ }
+
+ .first p {
+    margin-bottom: 60px;
+    text-align: center;
+    font-size: 15px;
+    line-height: 30px;
+    color: #000;
+ }
+
+ .img-box {
+    margin: 0 auto;
+    width: 996px;
+    height: 560px;
+ }
+
+ .btn {
+    margin-top: 65px;
+ }
+
+ button {
+     padding: 14px 35px 14px;
+     border: none;
+     margin: 0 22px 40px;
+     font-size: 15px;
+     line-height: 15px;
+     color: #6F2CFF;
+     background-color: #fff;
+     border-radius: 30px;
+ }
+
+ .see-btn {
+    color: #FFF;
+    background: #6F2CFF;
+ }
+
+ .second {
+    padding-bottom: 100px;
+    background-color: #fff;
+ }
+
+.second h2 {
+    padding-top: 70px;
+    margin: 77px auto 70px;
+    width: 507px;
+    font-size: 40px;
+    line-height: 45px;
+    color: #000;
+    text-align: center;
+}
+
+.adv-1 {
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 1px 5px 10px rgb(252, 246, 246);
+    background-color: rgb(252, 246, 246);
+}
+
+.adv-1 img {
+    border-radius: 7px 7px 0px 0px;
+    width: 320px;
+    height: 205px;
+}
+
+.div-2 {
+    margin: 0 39px 0;
+}
+
+.adv-1 h3 {
+   margin: 25px 0 25px;
+}
+.adv-1 p {
+    margin: 0 auto 60px;
+    width: 185px;
+    color: #6F2CFF;
+}
+
+.third h3 {
+    margin: 67px auto 15px;
+    color: #000;
+    font-size: 40px;
+    line-height: 45px;
+    text-align: center;
+}
+
+.third .third-p {
+    margin-bottom: 45px;
+    font-size: 18px;
+    color: #000;
+    line-height: 30px;
+}
+
+.box-in-third {
+    display: inline-block;
+    padding: 20px 32px 30px;
+    border-radius: 8px 10px 10px 8px;
+    margin: 0px 32px 30px 0px;
+    width: 450px;
+    height: 199px;
+    box-shadow: 5px 5px 10px #17002E;
+    background: #17002E;
+    height: 199px;
+}
+
+.box-in-third h5 {
+    display: inline-block;
+    padding-bottom: 10px;
+    color: #F5F5F5;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.box-in-third p {
+    padding-bottom: 10px;
+    padding-left: 40px;
+    color: #F5F5F5;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.box {
+    padding-right: 150px;
+}
+
+.box-p {
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+
